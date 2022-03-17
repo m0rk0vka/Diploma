@@ -1,5 +1,5 @@
-#ifndef GAUSSDOUBLE_H
-#define GAUSSDOUBLE_H
+#ifndef _GAUSSDOUBLE_H_
+#define _GAUSSDOUBLE_H_
 
 #include <iostream>
 #include <vector>
